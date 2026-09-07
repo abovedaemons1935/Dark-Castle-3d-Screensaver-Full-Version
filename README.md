@@ -235,3 +235,6 @@ This repository serves as the official landing page for Dark Castle 3D Screensav
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Dark Castle 3D Screensaver today!**
+
+---
+**Last updated:** 2026-09-07 16:16:57 UTC
